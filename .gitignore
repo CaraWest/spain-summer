@@ -1,0 +1,16 @@
+# Local environment and secrets
+.env
+.env.local
+.env.*.local
+
+# Python
+.venv
+__pycache__/
+*.py[cod]
+
+# OS
+.DS_Store
+
+# Editor lock files
+*.lock
+.~lock.*
